@@ -15,12 +15,9 @@ and [download link](url)
 
 ### The documentation for the TestCaseGenerator
 
-put [link](url)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[link for TCG-Overview](https://ericf20423.github.io/CCU_PLLAB_TestCaseGenerator/TCG-Overview/)
 
 
 ### About us 
+開發人員資訊?
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
