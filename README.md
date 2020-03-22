@@ -6,7 +6,7 @@
 Step1.  Download and install eclipse, version is 2018-09. Do not include Chinese in the installation path.([Download Link](https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2018-09/R/eclipse-jee-2018-09-win32-x86_64.zip))
 
 Step2.  Download and install Xtext, From the eclipse navigation: Help -> Install New Software... -> Work with, Paste download URL.
-Press Enter and wait for eclipse to finish downloading. Select all to download.([Download Link](https://download.eclipse.org/modeling/tmf/xtext/updates/composite/releases/))  </br>
+Press Enter and wait for eclipse to finish downloading. Select all to download.([Download Link](https://download.eclipse.org/modeling/tmf/xtext/updates/composite/releases/))  
 
 ![](/img/HelpInstall.png)
 
@@ -18,7 +18,7 @@ Step4.  Download and install TcgenSetup.exe, Select the folder where eclipse is 
 
 ### II、How to use Tcgen Plugin
 
-1.  After using eclipsec.exe to open eclipse, From the eclipse navigation: File -> New -> Other... -> CCU_Pllab -> Tcgen project.   </br>
+1.  After using eclipsec.exe to open eclipse, From the eclipse navigation: File -> New -> Other... -> CCU_Pllab -> Tcgen project.   
 
   ![](/img/tcgen.png)
 
