@@ -7,7 +7,7 @@ Step1.  Download and install eclipse, version is 2018-09. Do not include Chinese
 
 Step2.  Download and install Xtext, From the eclipse navigation: Help -> Install New Software... -> Work with, Paste download URL.
 Press Enter and wait for eclipse to finish downloading. Select all to download.([Download Link](https://download.eclipse.org/modeling/tmf/xtext/updates/composite/releases/))
-!image[test](/img/HelpInstall.png)
+![](/img/HelpInstall.png)
 
 Step3.  Download and install Papyrus，From the eclipse navigation: Help -> Install New Software... -> Work with, Paste download URL.
 Press Enter and wait for eclipse to finish downloading. Select all to download.([Download Link](https://download.eclipse.org/modeling/mdt/papyrus/updates/releases/2018-09/))
