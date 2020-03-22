@@ -28,5 +28,5 @@ Step4.  Download and install TcgenSetup.exe, Select the folder where eclipse is 
 
 ### About us
 
-LAB307A
+CCU_LAB307A
 
