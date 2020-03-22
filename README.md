@@ -18,7 +18,7 @@ Step4.  Download and install TcgenSetup.exe, Select the folder where eclipse is 
 
 ### II、How to use Tcgen Plugin
 
-1.  After using eclipsec.exe to open eclipse, From the eclipse navigation: File -> New -> Other... -> CCU_Pllab -> Tcgen project.  
+1.  After using eclipsec.exe to open eclipse, From the eclipse navigation: File -> New -> Other... -> CCU_Pllab -> Tcgen project.   </br>
 
   ![](/img/tcgen.png)
 
