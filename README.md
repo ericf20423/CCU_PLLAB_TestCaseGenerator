@@ -17,7 +17,8 @@ Step4.  Download and install TcgenSetup.exe, Select the folder where eclipse is 
 
 ### II、How to use Tcgen Plugin
 
-1.  After using eclipsec.exe to open eclipse, From the eclipse navigation: File -> New -> Other... -> CCU_Pllab -> Tcgen project
+1.  After using eclipsec.exe to open eclipse, From the eclipse navigation: File -> New -> Other... -> CCU_Pllab -> Tcgen project.
+![](/img/tcgen.png)
 
 2.  Create Papyrus project under the spec folder to draw class diagrams and state diagrams, and programming the objects constraint languages.
 
