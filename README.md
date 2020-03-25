@@ -22,12 +22,11 @@ Press Enter and wait for eclipse to finish downloading. Select all to download.(
 
 <ol start = "1">  
   <li>
-  <font color="#dd0000">After using eclipsec.exe to open eclipse</font>, From the eclipse navigation: File -> New -> Other... -> CCU_Pllab -> Tcgen project. </br>
+  <font color="#dd0000">After using eclipsec.exe to open eclipse</font>, From the eclipse navigation: File -> New -> Other... -> CCU_Pllab -> Tcgen project. 
+  </br>
   <img src = "/CCU_PLLAB_TestCaseGenerator/img/tcgen.png" alt>
   </li>
 </ol>  
-
-  ![](/img/tcgen.png)
   
 <ol start = "2">  
   <li>
