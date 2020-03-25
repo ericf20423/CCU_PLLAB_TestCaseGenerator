@@ -22,7 +22,8 @@ Press Enter and wait for eclipse to finish downloading. Select all to download.(
 
 <ol start = "1">  
   <li>
-  <font color="#dd0000">After using eclipsec.exe to open eclipse</font>, From the eclipse navigation: File -> New -> Other... -> CCU_Pllab -> Tcgen project. 
+  <font color="#dd0000">After using eclipsec.exe to open eclipse</font>, From the eclipse navigation: File -> New -> Other... -> CCU_Pllab -> Tcgen project. </br>
+  <img src = "/CCU_PLLAB_TestCaseGenerator/img/tcgen.png" alt>
   </li>
 </ol>  
 
@@ -53,11 +54,8 @@ Press Enter and wait for eclipse to finish downloading. Select all to download.(
   After creating a new tcgen project, you will find that we have prepared a sample specification in the spec folder.
 This is a specification document describing the BoundedQueue class, which contains the class diagram and the object constraint language included in the papyrus project.
   </li>
-  <li>
-    <img src = "/CCU_PLLAB_TestCaseGenerator/img/tcgen.png" alt>
-  </li> 
 </ol>
-
+![](/img/spec.png)
 
 <ol start = "2">  
   <li>
