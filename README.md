@@ -67,8 +67,8 @@ This is a specification document describing the BoundedQueue class, which contai
 
 <ol start = "3">  
   <li>
-  Wait for the execution of the plug-in to be completed, refresh the pllab project and you will find the constraint logic graph of BoundedQueue automatically generated in the clg folder, test cases in td folder and test scripts in test folder, will also be automatically generated.
-  You will find errors for the class of the test script because you have not completed BoundedQueue source code and imported the Junit 4 library yet.
+  <p>Wait for the execution of the plug-in to be completed, refresh the pllab project and you will find the constraint logic graph of BoundedQueue automatically generated in the clg folder, test cases in td folder and test scripts in test folder, will also be automatically generated.</p>
+  <p>You will find errors for the class of the test script because you have not completed BoundedQueue source code and imported the Junit 4 library yet.</p>
   </li>
 </ol>
 
