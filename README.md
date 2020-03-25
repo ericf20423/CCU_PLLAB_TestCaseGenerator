@@ -22,7 +22,7 @@ Press Enter and wait for eclipse to finish downloading. Select all to download.(
 
 <ol start = "1">  
   <li>
-  **After using eclipsec.exe to open eclipse**, From the eclipse navigation: File -> New -> Other... -> CCU_Pllab -> Tcgen project. 
+  <font color="#dd0000">After using eclipsec.exe to open eclipse</font>, From the eclipse navigation: File -> New -> Other... -> CCU_Pllab -> Tcgen project. 
   </li>
 </ol>  
 
