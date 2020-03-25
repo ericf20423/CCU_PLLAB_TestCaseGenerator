@@ -48,16 +48,24 @@ Press Enter and wait for eclipse to finish downloading. Select all to download.(
 
 ### III、Quick Start
 
-1.  After creating a new tcgen project, you will find that we have prepared a sample specification in the spec folder.
+<ol start = "1">  
+  <li>
+  After creating a new tcgen project, you will find that we have prepared a sample specification in the spec folder.
 This is a specification document describing the BoundedQueue class, which contains the class diagram and the object constraint language included in the papyrus project.
+  </li>
+</ol>
 
 ![](/img/spec.png)
 
+<ol start = "2">  
+  <li>
 2.  Double-click the BoundedQueue project and open the View of the class diagram, or open any related specification file. Such as BoundedQueue.ocl or BoundedQueue.uml. Then press the test button installed by the tcgen plugin in the eclipse navigation bar, select the "Method level black box test case" option.  
+  </li>
+</ol>
 
 ![](/img/testoption.png)
 
-3.  
+  
 ### About us
 
 CCU_LAB307A
