@@ -18,15 +18,15 @@ Step4.  Download and install TcgenSetup.exe, Select the folder where eclipse is 
 
 ### II、How to use Tcgen Plugin
 
-1.**After using eclipsec.exe to open eclipse**, From the eclipse navigation: File -> New -> Other... -> CCU_Pllab -> Tcgen project.   
+  1. **After using eclipsec.exe to open eclipse**, From the eclipse navigation: File -> New -> Other... -> CCU_Pllab -> Tcgen project.   
 
   ![](/img/tcgen.png)
 
-2.Create Papyrus project under the spec folder to draw class diagrams and state diagrams, and programming the objects constraint languages.
+  2. Create Papyrus project under the spec folder to draw class diagrams and state diagrams, and programming the objects constraint languages.
 
-3.After specification was finished, From the eclipse navigation: Test -> Generate black box test case, Tcgen Plugin will automatically generate the constraint logic graph, test data and test scripts.
+  3. After specification was finished, From the eclipse navigation: Test -> Generate black box test case, Tcgen Plugin will automatically generate the constraint logic graph, test data and test scripts.
 
-4.Write programs through test scripts,complete TDD(Test-Driven Development) method to ensure program quality.
+  4. Write programs through test scripts,complete TDD(Test-Driven Development) method to ensure program quality.
 
 
 ### III、Quick Start
