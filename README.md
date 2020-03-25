@@ -53,9 +53,11 @@ Press Enter and wait for eclipse to finish downloading. Select all to download.(
   After creating a new tcgen project, you will find that we have prepared a sample specification in the spec folder.
 This is a specification document describing the BoundedQueue class, which contains the class diagram and the object constraint language included in the papyrus project.
   </li>
+  <li>
+    <img src = "/CCU_PLLAB_TestCaseGenerator/img/tcgen.png" alt>
+  </li> 
 </ol>
 
-![](/img/spec.png)
 
 <ol start = "2">  
   <li>
@@ -65,7 +67,14 @@ This is a specification document describing the BoundedQueue class, which contai
 
 ![](/img/testoption.png)
 
-  
+<ol start = "3">  
+  <li>
+  Wait for the execution of the plug-in to be completed, refresh the pllab project and you will find the constraint logic graph of BoundedQueue automatically generated in the clg folder, test cases and test scripts will also be automatically generated in the corresponding folder.
+  </li>
+</ol>
+
+![](/img/generate.png)
+
 ### About us
 
 CCU_LAB307A
