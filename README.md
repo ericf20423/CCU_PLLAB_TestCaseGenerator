@@ -18,7 +18,7 @@ Step4.  Download and install TcgenSetup.exe, Select the folder where eclipse is 
 
 ### II、How to use Tcgen Plugin
 
-1.  After using eclipsec.exe to open eclipse, From the eclipse navigation: File -> New -> Other... -> CCU_Pllab -> Tcgen project.   
+1.  <font color="#dd0000">After using eclipsec.exe to open eclipse</font>, From the eclipse navigation: File -> New -> Other... -> CCU_Pllab -> Tcgen project.   
 
   ![](/img/tcgen.png)
 
@@ -29,6 +29,18 @@ Step4.  Download and install TcgenSetup.exe, Select the folder where eclipse is 
 4.  Write programs through test scripts,complete TDD(Test-Driven Development) method to ensure program quality.
 
 
+### III、Quick Start
+
+1.  After creating a new tcgen project, you will find that we have prepared a sample specification in the spec folder.
+This is a specification document describing the BoundedQueue class, which contains the class diagram and the object constraint language included in the papyrus project.
+
+![](/img/spec.png)
+
+2.  Double-click the BoundedQueue project and open the View of the class diagram, or open any related specification file. Such as BoundedQueue.ocl or BoundedQueue.uml. Then press the test button installed by the tcgen plugin in the eclipse navigation bar, select the "Method level black box test case" option.  
+
+![](/img/testoption.png)
+
+3.  
 ### About us
 
 CCU_LAB307A
