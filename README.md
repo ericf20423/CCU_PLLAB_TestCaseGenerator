@@ -32,7 +32,7 @@ Step4.  Download and install TcgenSetup.exe, Select the folder where eclipse is 
 </ol>
 
 <ol start = "4">  
-  4.  Write programs through test scripts,complete TDD(Test-Driven Development) method to ensure program quality.
+  Write programs through test scripts,complete TDD(Test-Driven Development) method to ensure program quality.
 </ol>
 
 ### III、Quick Start
