@@ -54,7 +54,8 @@ Press Enter and wait for eclipse to finish downloading. Select all to download.(
   After creating a new tcgen project, you will find that we have prepared a sample specification in the spec folder.
 This is a specification document describing the BoundedQueue class, which contains the class diagram and the object constraint language included in the papyrus project.
   </li>
-</ol>
+</ol>  
+
 ![](/img/spec.png)
 
 <ol start = "2">  
