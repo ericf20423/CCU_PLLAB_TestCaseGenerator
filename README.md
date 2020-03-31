@@ -52,7 +52,8 @@ Press Enter and wait for eclipse to finish downloading. Select all to download.(
   <li>
   We provide a simple example that contains a completed specification file, From the eclipse navigation: File -> New -> Example… , and you will find the example guide that contains specifications for the BoundedQueue class.
   </li>
-</ol>
+</ol>  
+
 ![](/img/newExample.png)
 ![](/img/Example.png)
 
