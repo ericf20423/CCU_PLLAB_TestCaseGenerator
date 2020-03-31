@@ -50,6 +50,14 @@ Press Enter and wait for eclipse to finish downloading. Select all to download.(
 
 <ol start = "1">  
   <li>
+  We provide a simple example that contains a completed specification file, From the eclipse navigation: File -> New -> Example… , and you will find the example guide that contains specifications for the BoundedQueue class.
+  </li>
+</ol>
+![](/img/newExample.png)
+![](/img/Example.png)
+
+<ol start = "2">  
+  <li>
   After creating a new tcgen project, you will find that we have prepared a sample specification in the spec folder.
 This is a specification document describing the BoundedQueue class, which contains the class diagram and the object constraint language included in the papyrus project.
   </li>
@@ -57,7 +65,7 @@ This is a specification document describing the BoundedQueue class, which contai
 
 ![](/img/spec.png)
 
-<ol start = "2">  
+<ol start = "3">  
   <li>
   Double-click the BoundedQueue project and open the View of the class diagram, or open any related specification file. Such as BoundedQueue.ocl or BoundedQueue.uml. Then press the test button installed by the tcgen plugin in the eclipse navigation bar, select the "Method level black box test case" option.  
   </li>
@@ -65,7 +73,7 @@ This is a specification document describing the BoundedQueue class, which contai
 
 ![](/img/testoption.png)
 
-<ol start = "3">  
+<ol start = "4">  
   <li>
   <p>Wait for the execution of the plug-in to be completed, refresh the pllab project and you will find the constraint logic graph of BoundedQueue automatically generated in the clg folder, test cases in td folder and test scripts in test folder, will also be automatically generated.</p>
   <p>You will find errors for the class of the test script because you have not completed BoundedQueue source code and imported the Junit 4 library yet.</p>
